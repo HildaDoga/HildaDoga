@@ -17,3 +17,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hildadoga&show_icons=true&locale=en" alt="hildadoga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hildadoga&" alt="hildadoga" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HildaDoga/HildaDoga/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HildaDoga/HildaDoga/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HildaDoga/HildaDoga/output/github-contribution-grid-snake.svg">
+</picture>
