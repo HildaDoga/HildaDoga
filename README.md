@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=435&lines=Initializing+profile...;Loading+Hilda.exe...;%3E+Hello%2C+World!" alt="Typing SVG" />
 
 <!-- Glitch name banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00ff9c&height=200&section=header&text=HILDA%20DO%C4%9EA&fontSize=50&fontColor=00ff9c&fontAlignY=38&desc=ARSLANPEN%C3%87ES%C4%B0&descSize=22&descAlignY=60&descColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00ff9c&height=200&section=header&text=HİLDA%20DO%C4%9EA&fontSize=50&fontColor=00ff9c&fontAlignY=38&desc=ARSLANPEN%C3%87ES%C4%B0&descSize=22&descAlignY=60&descColor=ffffff&animation=fadeIn" />
 
 </div>
 
