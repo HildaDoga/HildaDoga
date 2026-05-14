@@ -27,7 +27,6 @@
 
 ---
 
-<div align="center">
 
 ### `> CONNECT.exe`
 
@@ -35,7 +34,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-hildaarslanpencesi-%2300FF9C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hildaarslanpencesi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-HildaDoga-%2300FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/HildaDoga)
 
-</div>
 
 ---
 
@@ -61,12 +59,6 @@
 
 ### `> STATS.load()`
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hildadoga&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff9c&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hildadoga&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff9c&title_color=00ff9c&text_color=ffffff" />
-
-</div>
 
 <div align="center">
 
