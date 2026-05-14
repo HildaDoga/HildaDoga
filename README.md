@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb7c5,50:ffd6e7,100:c9b8ff&height=200&section=header&text=Hilda%20Doğa%20✿&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Arslanpençesi&descSize=22&descAlignY=62&descColor=ffffffcc&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:1a0533,100:0d1b4b&height=220&section=header&text=HILDA%20DO%C4%9EA&fontSize=52&fontColor=e8d5ff&fontAlignY=40&desc=✦%20Arslanpen%C3%A7esi%20✦&descSize=20&descAlignY=62&descColor=a78bfa&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=16&duration=3000&pause=800&color=FF8FAB&center=true&vCenter=true&width=435&lines=✨+Welcome+to+my+little+corner~+✨;🌸+Learning+C%2B%2B+%2C+Flutter+%26+Dart+🌸;💕+Let's+build+something+cute+together!+💕" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=13&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=✦+Exploring+the+universe+one+commit+at+a+time+✦;🚀+Learning+C%2B%2B+·+Flutter+·+Dart;🌌+somewhere+in+the+cosmos...+Turkey+🇹🇷" alt="Typing SVG" />
 
 </div>
 
@@ -11,12 +11,18 @@
 <div align="center">
 
 ```
-✿ ·  · ✿ · · ✿ · · ✿ · · ✿ · · ✿ · · ✿ · · ✿
-       ( ᵕ—ᴗ— )  hi hi, i'm hilda ~
-   🌸  currently learning C++, Flutter & Dart
-   📮  hildaarslanpencesi@gmail.com
-   🇹🇷  Turkey
-✿ · · ✿ · · ✿ · · ✿ · · ✿ · · ✿ · · ✿ · · ✿
+　　　  　　　✦ 　　　　　　　　　　　　　　.
+　　　　　　　　　　　　　　✦ 　　　　　　　　
+  ·  ·  · — — ─ ✦  W H O A M I  ✦ ─ — — · · ·
+　　　
+      🪐  Hilda Doğa Arslanpençesi
+      🛸  C++  ·  Flutter  ·  Dart
+      🌠  hildaarslanpencesi@gmail.com
+      🌍  Turkey
+　　　
+  · · · — — ─ ✦ ─ ─ ─ ─ ─ ─ ─ ✦ ─ — — · · ·
+　　　　　　　　　　　　　　　　　✦
+　　　　✦
 ```
 
 </div>
@@ -25,61 +31,61 @@
 
 <div align="center">
 
-### ˚₊· ͟͟͞͞➳ find me here ♡
+### ✦ TRANSMISSION LINKS ✦
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb7c5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hildadogaarslanpencesi)
-[![Gmail](https://img.shields.io/badge/Gmail-ffd6e7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hildaarslanpencesi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-c9b8ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HildaDoga)
-
-</div>
-
----
-
-### ˚₊· ͟͟͞͞➳ tools & languages ♡
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-ffb7c5?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-ffc8d4?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-c9b8ff?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-b8d8ff?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-b8e8ff?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ffd6b8?style=for-the-badge&logo=html5&logoColor=white)
-![Android](https://img.shields.io/badge/Android-b8ffda?style=for-the-badge&logo=android&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-ffb8e8?style=for-the-badge&logo=figma&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/hildadogaarslanpencesi)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0221?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:hildaarslanpencesi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/HildaDoga)
 
 </div>
 
 ---
 
-### ˚₊· ͟͟͞͞➳ my stats ♡
+### ✦ ONBOARD SYSTEMS ✦
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hildadoga&show_icons=true&bg_color=fff0f5&border_color=ffb7c5&title_color=ff8fab&icon_color=c9b8ff&text_color=a0708a&border_radius=20" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hildadoga&layout=compact&bg_color=fff0f5&border_color=ffb7c5&title_color=ff8fab&text_color=a0708a&border_radius=20" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hildadoga&background=fff0f5&border=ffb7c5&stroke=ffb7c5&ring=ff8fab&fire=ffb347&currStreakNum=a0708a&sideNums=a0708a&currStreakLabel=ff8fab&sideLabels=ff8fab&dates=c9b8ff" />
-
-</div>
-
----
-
-### ˚₊· ͟͟͞͞➳ trophies ♡
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hildadoga&theme=rosy&no-frame=true&no-bg=false&margin-w=6&column=7" />
+![C](https://img.shields.io/badge/C-1a0533?style=for-the-badge&logo=c&logoColor=c4b5fd)
+![C++](https://img.shields.io/badge/C++-1a0533?style=for-the-badge&logo=cplusplus&logoColor=c4b5fd)
+![Python](https://img.shields.io/badge/Python-0d1b4b?style=for-the-badge&logo=python&logoColor=818cf8)
+![Flutter](https://img.shields.io/badge/Flutter-0d1b4b?style=for-the-badge&logo=flutter&logoColor=7dd3fc)
+![Dart](https://img.shields.io/badge/Dart-0d1b4b?style=for-the-badge&logo=dart&logoColor=7dd3fc)
+![HTML5](https://img.shields.io/badge/HTML5-1a0533?style=for-the-badge&logo=html5&logoColor=fb923c)
+![Android](https://img.shields.io/badge/Android-0d1b4b?style=for-the-badge&logo=android&logoColor=4ade80)
+![Figma](https://img.shields.io/badge/Figma-1a0533?style=for-the-badge&logo=figma&logoColor=f472b6)
 
 </div>
 
 ---
 
-### ˚₊· ͟͟͞͞➳ contribution snake ♡
+### ✦ MISSION STATS ✦
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hildadoga&show_icons=true&bg_color=0d0221&border_color=a78bfa&title_color=a78bfa&icon_color=818cf8&text_color=e8d5ff&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hildadoga&layout=compact&bg_color=0d0221&border_color=a78bfa&title_color=a78bfa&text_color=e8d5ff&border_radius=12" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hildadoga&background=0d0221&border=a78bfa&stroke=a78bfa&ring=c4b5fd&fire=f472b6&currStreakNum=e8d5ff&sideNums=e8d5ff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" />
+
+</div>
+
+---
+
+### ✦ STAR CHART ✦
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hildadoga&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+---
+
+### ✦ ORBITAL PATH ✦
 
 <div align="center">
 
@@ -95,11 +101,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hildadoga&color=ff8fab&style=for-the-badge&label=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=hildadoga&color=a78bfa&style=for-the-badge&label=EXPLORERS)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:c9b8ff,50:ffd6e7,100:ffb7c5&height=100&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1b4b,50:1a0533,100:000000&height=120&section=footer&animation=fadeIn" />
 
-*`🌸 thanks for visiting, have a lovely day~ ♡`*
+*`✦ the universe is vast — keep exploring ✦`*
 
 </div>
 
