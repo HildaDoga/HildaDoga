@@ -15,7 +15,7 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  > status                                            ║
-║    Currently learning: C++ · Flutter · Dart          ║
+║    Currently learning: CyberSecurity                 ║
 ║  > location                                          ║
 ║    Turkey 🇹🇷                                         ║
 ║  > contact                                           ║
