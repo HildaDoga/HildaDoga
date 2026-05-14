@@ -98,6 +98,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hildadoga&color=00ff9c&style=for-the-badge&label=PROFILE+VIEWS)
 
-*`> System online. Keep coding. 🖤`*
+*`> System online. Keep coding. `*
 
 </div>
