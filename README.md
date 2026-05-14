@@ -14,11 +14,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  > whoami                                            ║
-║    Hilda Doğa Arslanpençesi                          ║
 ║  > status                                            ║
-║    Currently learning: C++ · Flutter · Dart          ║
-║  > location                                          ║
+║    Currently learning: CyberSecurity                 ║
 ║    Turkey 🇹🇷                                         ║
 ║  > contact                                           ║
 ║    hildaarslanpencesi@gmail.com                      ║
