@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=435&lines=Initializing+profile...;Loading+Hilda.exe...;%3E+Hello%2C+World!" alt="Typing SVG" />
 
 <!-- Glitch name banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00ff9c&height=200&section=header&text=HILDA%20DO%C4%9EA&fontSize=50&fontColor=00ff9c&fontAlignY=38&desc=ARSLANPEN%C3%87ES%C4%B0&descSize=20&descAlignY=58&descColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00ff9c&height=200&section=header&text=HILDA%20DO%C4%9EA&fontSize=50&fontColor=00ff9c&fontAlignY=38&desc=ARSLANPEN%C3%87ES%C4%B0&descSize=22&descAlignY=60&descColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -15,7 +15,8 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  > status                                            ║
-║    Currently learning: CyberSecurity                 ║
+║    Currently learning: C++ · Flutter · Dart          ║
+║  > location                                          ║
 ║    Turkey 🇹🇷                                         ║
 ║  > contact                                           ║
 ║    hildaarslanpencesi@gmail.com                      ║
@@ -50,6 +51,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-222222?style=for-the-badge&logo=hackthebox&logoColor=9fef00)
+![Mobile Dev](https://img.shields.io/badge/Mobile_Dev-0d1117?style=for-the-badge&logo=android&logoColor=00ff9c)
 
 </div>
 
@@ -102,6 +106,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hildadoga&color=00ff9c&style=for-the-badge&label=PROFILE+VIEWS)
 
-*`> System online. Keep coding. `*
+*`> System online. Keep coding. 🖤`*
 
 </div>
