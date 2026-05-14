@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=435&lines=Initializing+profile...;Loading+Hilda.exe...;%3E+Hello%2C+World!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb7c5,50:ffd6e7,100:c9b8ff&height=200&section=header&text=Hilda%20Doğa%20✿&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Arslanpençesi&descSize=22&descAlignY=62&descColor=ffffffcc&animation=twinkling" />
 
-<!-- Glitch name banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00ff9c&height=200&section=header&text=HILDA%20DO%C4%9EA&fontSize=50&fontColor=00ff9c&fontAlignY=38&desc=ARSLANPEN%C3%87ES%C4%B0&descSize=20&descAlignY=58&descColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=16&duration=3000&pause=800&color=FF8FAB&center=true&vCenter=true&width=435&lines=✨+Welcome+to+my+little+corner~+✨;🌸+Learning+C%2B%2B+%2C+Flutter+%26+Dart+🌸;💕+Let's+build+something+cute+together!+💕" alt="Typing SVG" />
 
 </div>
 
@@ -13,16 +11,12 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  > whoami                                            ║
-║    Hilda Doğa Arslanpençesi                          ║
-║  > status                                            ║
-║    Currently learning: C++ · Flutter · Dart          ║
-║  > location                                          ║
-║    Turkey 🇹🇷                                         ║
-║  > contact                                           ║
-║    hildaarslanpencesi@gmail.com                      ║
-╚══════════════════════════════════════════════════════╝
+✿ ·  · ✿ · · ✿ · · ✿ · · ✿ · · ✿ · · ✿ · · ✿
+       ( ᵕ—ᴗ— )  hi hi, i'm hilda ~
+   🌸  currently learning C++, Flutter & Dart
+   📮  hildaarslanpencesi@gmail.com
+   🇹🇷  Turkey
+✿ · · ✿ · · ✿ · · ✿ · · ✿ · · ✿ · · ✿ · · ✿
 ```
 
 </div>
@@ -31,51 +25,61 @@
 
 <div align="center">
 
-### `> CONNECT.exe`
+### ˚₊· ͟͟͞͞➳ find me here ♡
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hilda_Doğa-%2300FF9C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/hildadogaarslanpencesi)
-[![Gmail](https://img.shields.io/badge/Gmail-hildaarslanpencesi-%2300FF9C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hildaarslanpencesi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-HildaDoga-%2300FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/HildaDoga)
-
-</div>
-
----
-
-### `> SKILLS.scan()`
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb7c5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hildadogaarslanpencesi)
+[![Gmail](https://img.shields.io/badge/Gmail-ffd6e7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hildaarslanpencesi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-c9b8ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HildaDoga)
 
 </div>
 
 ---
 
-### `> STATS.load()`
+### ˚₊· ͟͟͞͞➳ tools & languages ♡
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hildadoga&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff9c&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hildadoga&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff9c&title_color=00ff9c&text_color=ffffff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hildadoga&theme=dark&background=0d1117&border=00ff9c&stroke=00ff9c&ring=00ff9c&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=888888" />
+![C](https://img.shields.io/badge/C-ffb7c5?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ffc8d4?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-c9b8ff?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-b8d8ff?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-b8e8ff?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ffd6b8?style=for-the-badge&logo=html5&logoColor=white)
+![Android](https://img.shields.io/badge/Android-b8ffda?style=for-the-badge&logo=android&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ffb8e8?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-### `> ACTIVITY.trace()`
+### ˚₊· ͟͟͞͞➳ my stats ♡
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hildadoga&show_icons=true&bg_color=fff0f5&border_color=ffb7c5&title_color=ff8fab&icon_color=c9b8ff&text_color=a0708a&border_radius=20" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hildadoga&layout=compact&bg_color=fff0f5&border_color=ffb7c5&title_color=ff8fab&text_color=a0708a&border_radius=20" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hildadoga&background=fff0f5&border=ffb7c5&stroke=ffb7c5&ring=ff8fab&fire=ffb347&currStreakNum=a0708a&sideNums=a0708a&currStreakLabel=ff8fab&sideLabels=ff8fab&dates=c9b8ff" />
+
+</div>
+
+---
+
+### ˚₊· ͟͟͞͞➳ trophies ♡
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hildadoga&theme=rosy&no-frame=true&no-bg=false&margin-w=6&column=7" />
+
+</div>
+
+---
+
+### ˚₊· ͟͟͞͞➳ contribution snake ♡
 
 <div align="center">
 
@@ -89,20 +93,13 @@
 
 ---
 
-### `> TROPHIES.unlock()`
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hildadoga&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
+![Profile Views](https://komarev.com/ghpvc/?username=hildadoga&color=ff8fab&style=for-the-badge&label=visitors)
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:c9b8ff,50:ffd6e7,100:ffb7c5&height=100&section=footer&animation=twinkling" />
+
+*`🌸 thanks for visiting, have a lovely day~ ♡`*
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer&fontSize=20&fontColor=ffffff&animation=fadeIn" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=hildadoga&color=00ff9c&style=for-the-badge&label=PROFILE+VIEWS)
-
-*`> System online. Keep coding. 🖤`*
